@@ -19,4 +19,4 @@ user@host:~$ git clone https://github.com/mdakh404/PyOVER.git
 user@host:~$ python3 PyOVER.py -L live_subdomains.txt
 ```
 
-![screenshot](screenshot/screen.txt)
+![screenshot](screenshot/screen.png)
