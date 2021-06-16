@@ -1,5 +1,5 @@
 # PyOVER
-PyOVER is a basic tool that's created to get CNAME records of a given list of subdomains in order to discover quick subdomain takeovers.
+PyOVER is a basic tool that's created to get CNAME records for a given list of subdomains in order to discover quick subdomain takeovers.
 
 # Installation
 First of all, you should install modules that are needed using pip3 (Python +3.*):
